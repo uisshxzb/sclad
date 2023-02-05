@@ -1,0 +1,30 @@
+
+#include <iostream>
+#include <cstdlib>
+using namespace std;
+int main()
+{
+	system("color 0C");
+	int a;
+	cout << a;
+	cin >> a;
+
+	double b;
+	cout << b;
+	cin >> b;
+
+	char c;
+	cout << c;
+	cin >> c;
+
+	char d;
+	cout << d;
+	cin >> d;
+
+	if (a!< 0) { cout << "Error\n"; };
+	if (b!= 0) { cout << "Error\n"; };
+	if (c!= char) { cout << "Error\n"; };
+	if (d!= char) { cout << "Error\n"; };
+
+	return 0;
+}
